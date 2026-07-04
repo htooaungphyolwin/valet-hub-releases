@@ -67,7 +67,7 @@ Download the latest `.dmg` from the [Releases page](https://github.com/htooaungp
 
 ## Reporting Issues
 
-Found a bug? Open an issue on the [source repository](https://github.com/htooaungphyolwin/Valet-Desktop-App/issues/new?template=bug_report.md).
+Found a bug? Open an issue on the [releases repository](https://github.com/htooaungphyolwin/valet-hub-releases/issues/new/choose).
 
 **Before opening an issue:**
 1. Check that you're on the latest version
@@ -84,7 +84,7 @@ Found a bug? Open an issue on the [source repository](https://github.com/htooaun
 
 ## Feature Requests
 
-Have an idea? Open a discussion or feature request on the [source repository](https://github.com/htooaungphyolwin/Valet-Desktop-App/issues/new?template=feature_request.md).
+Have an idea? Open a feature request on the [releases repository](https://github.com/htooaungphyolwin/valet-hub-releases/issues/new/choose).
 
 **Before requesting:**
 1. Search existing issues and discussions — your idea may already be planned

@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Documentation
+    url: https://valet-hub.vercel.app
+    about: Check the documentation first for setup guides and feature overviews.
