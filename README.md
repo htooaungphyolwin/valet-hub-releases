@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Valet Hub" width="320">
+  <img src="assets/logo.png" alt="Valet Hub" width="240">
 </p>
 
 <p align="center">
@@ -108,6 +108,6 @@ See the [Releases page](https://github.com/htooaungphyolwin/valet-hub-releases/r
   <sub>
     Valet Hub is not affiliated with or endorsed by Laravel or Laravel Valet.
     <br>
-    <a href="https://valet-hub-docs.vercel.app">Documentation</a>
+    <a href="https://valet-hub.vercel.app">Documentation</a>
   </sub>
 </p>
