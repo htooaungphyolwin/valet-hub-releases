@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Valet Hub" width="480">
+  <img src="assets/logo.png" alt="Valet Hub" width="320">
 </p>
 
 <p align="center">
@@ -47,8 +47,8 @@ Download the latest `.dmg` from the [Releases page](https://github.com/htooaungp
 ## Screenshots
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/valet-hud-screenshot-dark.png">
-  <img src="assets/valet-hud-screenshot.png" alt="Valet Hub screenshot" width="720">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/valet-hub-screenshot-dark.png">
+  <img src="assets/valet-hub-screenshot.png" alt="Valet Hub screenshot" width="720">
 </picture>
 
 ---
