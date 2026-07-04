@@ -1,4 +1,6 @@
-# Valet Hub Releases
+<p align="center">
+  <img src="assets/logo.png" alt="Valet Hub" width="480">
+</p>
 
 <p align="center">
   <strong>Desktop companion for Laravel Valet.</strong>
@@ -8,6 +10,7 @@
 
 <p align="center">
   <a href="#download">Download</a> ·
+  <a href="#screenshots">Screenshots</a> ·
   <a href="#features">Features</a> ·
   <a href="#reporting-issues">Report an Issue</a> ·
   <a href="#feature-requests">Feature Requests</a> ·
@@ -38,6 +41,15 @@ Download the latest `.dmg` from the [Releases page](https://github.com/htooaungp
 3. Launch — it auto-detects your Valet setup
 
 > Your existing Valet sites and services are detected immediately. No configuration needed.
+
+---
+
+## Screenshots
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/valet-hud-screenshot-dark.png">
+  <img src="assets/valet-hud-screenshot.png" alt="Valet Hub screenshot" width="720">
+</picture>
 
 ---
 
