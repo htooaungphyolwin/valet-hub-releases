@@ -106,7 +106,7 @@ See the [Releases page](https://github.com/htooaungphyolwin/valet-hub-releases/r
 
 <p align="center">
   <sub>
-    Valet Hub is not affiliated with or endorsed by Laravel or Laravel Valet.
+    Built for the Laravel Valet community. Made with ❤️.
     <br>
     <a href="https://valet-hub.vercel.app">Documentation</a>
   </sub>
