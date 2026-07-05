@@ -57,7 +57,6 @@ Download the latest `.dmg` from the [Releases page](https://github.com/htooaungp
 
 - **Site Management** — Link, park, secure, and isolate PHP versions for Laravel sites
 - **Service Control** — Start, stop, restart Nginx, PHP, MySQL, Redis
-- **Menu Bar Search** — Press Cmd+Space (or click the tray icon) to instantly search and open any site
 - **Routes Viewer** — Browse all Laravel routes grouped by prefix, with one-click source access
 - **Log Viewer** — Real-time Nginx error logs with filter-by-site
 - **Environment Info** — PHP versions, database connections, tech stack at a glance
@@ -108,6 +107,6 @@ See the [Releases page](https://github.com/htooaungphyolwin/valet-hub-releases/r
   <sub>
     Built for the Laravel Valet community. Made with ❤️.
     <br>
-    <a href="https://valet-hub.vercel.app">Documentation</a>
+    <a href="https://valethub.vercel.app">Documentation</a>
   </sub>
 </p>
